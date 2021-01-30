@@ -1,7 +1,7 @@
 ---
-title: "Allan Lab - Publications"
+title: "Wang Lab - Publications"
 layout: gridlay
-excerpt: "Allan Lab -- Publications."
+excerpt: "Wang Lab -- Publications."
 sitemap: false
 permalink: /publications/
 ---
@@ -10,8 +10,8 @@ permalink: /publications/
 # Publications
 
 ## Group highlights
-
-(For a full list see [below](#full-list) or go to [Google Scholar](https://scholar.google.ch/citations?user=TqxYWZsAAAAJ), [ResearcherID](https://www.researcherid.com/rid/D-7763-2012))
+[Key Publications](https://mcgovern.mit.edu/profile/fan-wang/#publications-groupJ)
+(For a full list see [below](#full-list))
 
 {% assign number_printed = 0 %}
 {% for publi in site.data.publist %}

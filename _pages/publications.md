@@ -10,7 +10,7 @@ permalink: /publications/
 # Publications
 
 ## Group highlights
-[Key Publications](https://mcgovern.mit.edu/profile/fan-wang/#publications-groupJ)
+[Key Publications](https://mcgovern.mit.edu/profile/fan-wang/#publications-group)
 (For a full list see [below](#full-list))
 
 {% assign number_printed = 0 %}

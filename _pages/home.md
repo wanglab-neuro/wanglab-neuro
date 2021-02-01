@@ -6,10 +6,10 @@ sitemap: false
 permalink: /
 ---
 
-The Wang lab studies the neural circuit basis of sensory perception. We're specifically interested in uncovering the neural circuits underlying: 
-(1) Active touch sensation including the tactile processing stream and motor control of touch sensors on the face
-(2) pain sensation including both sensory-discriminative and affective aspects of pain and
-(3) general anesthesia including the process of active pain-suppression.
+The Wang lab studies the neural circuit basis of sensory perception. We're specifically interested in uncovering the neural circuits underlying:   
+(1) Active touch sensation including the tactile processing stream and motor control of touch sensors on the face  
+(2) pain sensation including both sensory-discriminative and affective aspects of pain  
+(3) general anesthesia including the process of active pain-suppression.  
 The Wang lab uses a range of techniques to gain traction on these questions, including genetic, viral, electrophysiology, and in vivo imaging.
 
 

@@ -10,7 +10,7 @@ title: The Wang Lab
 email: 
 description: > # this means to ignore newlines until "baseurl:"
   The Wang lab at McGovern - MIT
-baseurl: ""
+baseurl: "wanglab.github.io"
 url: "wanglab.github.io"
 
 include:

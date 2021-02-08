@@ -10,8 +10,8 @@ permalink: /publications/
 # Publications
 
 ## Group highlights
-[Key Publications](https://mcgovern.mit.edu/profile/fan-wang/#publications-group)
-(For a full list see [below](#full-list))
+[Key Publications](https://mcgovern.mit.edu/profile/fan-wang/#publications-group)  
+<!-- (For a full list see [below](#full-list)) -->
 
 {% assign number_printed = 0 %}
 {% for publi in site.data.publist %}
@@ -52,7 +52,8 @@ permalink: /publications/
 <p> &nbsp; </p>
 
 
-## Full List
+## Full List  
+Full publication list available on [Pubmed](https://www.ncbi.nlm.nih.gov/myncbi/fan.wang.1/bibliography/public/)
 
 {% for publi in site.data.publist %}
 

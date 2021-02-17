@@ -27,19 +27,19 @@ The Wang lab uses a range of techniques to gain traction on these questions, inc
     <div class="carousel-inner" markdown="0">
 
         <div class="item active">
-            <img class="center-block" src="{{ site.url }}{{ site.baseurl }}/images/slider/2Q==.jpg" alt="Slide 1" />
+            <img src="{{ site.url }}{{ site.baseurl }}/images/slider/2Q==.jpg" alt="Slide 1" />
         </div>
         <div class="item">
             <img src="{{ site.url }}{{ site.baseurl }}/images/slider/2Q==1.jpg" alt="Slide 2" />
         </div>
         <div class="item">
-            <img class="center-block" src="{{ site.url }}{{ site.baseurl }}/images/slider/3X5HgiVJ7ARwiAAAAAElFTkSuQmCC.png" alt="Slide 3" />
+            <img src="{{ site.url }}{{ site.baseurl }}/images/slider/3X5HgiVJ7ARwiAAAAAElFTkSuQmCC.png" alt="Slide 3" />
         </div>
         <div class="item">
-            <img class="center-block" src="{{ site.url }}{{ site.baseurl }}/images/slider/Z1.jpg" alt="Slide 4" />
+            <img src="{{ site.url }}{{ site.baseurl }}/images/slider/Z1.jpg" alt="Slide 4" />
         </div>
         <div class="item">
-            <img class="center-block" src="{{ site.url }}{{ site.baseurl }}/images/slider/Z2.jpg" alt="Slide 5" />
+            <img src="{{ site.url }}{{ site.baseurl }}/images/slider/Z2.jpg" alt="Slide 5" />
     </div>
   <a class="left carousel-control" href="#carousel" role="button" data-slide="prev">
     <span class="glyphicon glyphicon-chevron-left" aria-hidden="true"></span>

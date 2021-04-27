@@ -8,78 +8,8 @@
   education3:
   education4:
 
-- name: Vincent Prevosto
-  photo: Vincent.jpg
-  info: 
-  email: 
-  number_educ: 
-  education1: 
-  education2:
-  education3:
-  education4:
-
-- name: Jun Takato
-  photo: Jun.jpg
-  info: 
-  email: 
-  number_educ: 
-  education1: 
-  education2:
-  education3:
-  education4:
-
-- name: Kyle Severson
-  photo: Kyle.jpg
-  info: 
-  email: 
-  number_educ: 
-  education1: 
-  education2:
-  education3:
-  education4:
-
-- name: Manuel Levy
-  photo: Manuel.jpg
-  info: 
-  email: 
-  number_educ: 
-  education1: 
-  education2:
-  education3:
-  education4:
-
 - name: Bin Chen
   photo: Bin.jpg
-  info: 
-  email: 
-  number_educ: 
-  education1: 
-  education2:
-  education3:
-  education4:
-
-- name: Dongye Lu
-  photo: Dongye.jpg
-  info: 
-  email: 
-  number_educ: 
-  education1: 
-  education2:
-  education3:
-  education4:
-
-- name: Wenxi Xiao
-  photo: Wenxi.jpg
-  info: 
-  email: 
-  number_educ: 
-  education1: 
-  education2:
-  education3:
-  education4:
-
-- name: Miaomiao Jin
-  photo: Miaomiao.jpg
   info: 
   email: 
   number_educ: 
@@ -98,8 +28,28 @@
   education3:
   education4:
 
-- name: Jaehong Park
-  photo: Jaehong.jpg
+- name: Miaomiao Jin
+  photo: Miaomiao.jpg
+  info: 
+  email: 
+  number_educ: 
+  education1: 
+  education2:
+  education3:
+  education4:
+
+- name: Manuel Levy
+  photo: Manuel.jpg
+  info: 
+  email: 
+  number_educ: 
+  education1: 
+  education2:
+  education3:
+  education4:
+
+- name: Dongye Lu
+  photo: Dongye.jpg
   info: 
   email: 
   number_educ: 
@@ -118,6 +68,46 @@
   education3:
   education4:
 
+- name: Jaehong Park
+  photo: Jaehong.jpg
+  info: 
+  email: 
+  number_educ: 
+  education1: 
+  education2:
+  education3:
+  education4:
+
+- name: Vincent Prevosto
+  photo: Vincent.jpg
+  info: 
+  email: 
+  number_educ: 
+  education1: 
+  education2:
+  education3:
+  education4:
+
+- name: Kyle Severson
+  photo: Kyle.jpg
+  info: 
+  email: 
+  number_educ: 
+  education1: 
+  education2:
+  education3:
+  education4:
+
+- name: Jun Takato
+  photo: Jun.jpg
+  info: 
+  email: 
+  number_educ: 
+  education1: 
+  education2:
+  education3:
+  education4:
+
 - name: Paul Thompson
   photo: Paul.jpg
   info: 
@@ -127,3 +117,21 @@
   education2:
   education3:
   education4:
+    
+- name: Wenxi Xiao
+  photo: Wenxi.jpg
+  info: 
+  email: 
+  number_educ: 
+  education1: 
+  education2:
+  education3:
+  education4:
+
+
+
+
+
+
+
+

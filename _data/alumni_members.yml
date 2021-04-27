@@ -1,4 +1,15 @@
-- name: Katsuyasu Sakurai
+- name: LeeYup Chung
+  photo: 
+  duration: 
+  info: 
+  email: 
+  number_educ: 
+  education1: 
+  education2:
+  education3:
+  education4:
+
+- name: Carolyn Diaz
   photo: 
   duration: 
   info: 
@@ -20,28 +31,6 @@
   education3:
   education4:
 
-- name: Erica Rodriguez
-  photo: 
-  duration: 
-  info: 
-  email: 
-  number_educ: 
-  education1: 
-  education2:
-  education3:
-  education4:
-
-- name: Shengli Zhao
-  photo: 
-  duration: 
-  info: 
-  email: 
-  number_educ: 
-  education1: 
-  education2:
-  education3:
-  education4:
-
 - name: Bao-Xia Han
   photo: 
   duration: 
@@ -53,7 +42,7 @@
   education3:
   education4:
 
-- name: LeeYup Chung
+- name: Thuy Hua
   photo: 
   duration: 
   info: 
@@ -64,7 +53,18 @@
   education3:
   education4:
 
-- name: Xiang Zhou
+- name: Erica Rodriguez
+  photo: 
+  duration: 
+  info: 
+  email: 
+  number_educ: 
+  education1: 
+  education2:
+  education3:
+  education4:
+
+- name: Katsuyasu Sakurai
   photo: 
   duration: 
   info: 
@@ -87,6 +87,28 @@
   education4:
 
 - name: Yi Zhang
+  photo: 
+  duration: 
+  info: 
+  email: 
+  number_educ: 
+  education1: 
+  education2:
+  education3:
+  education4:
+
+- name: Shengli Zhao
+  photo: 
+  duration: 
+  info: 
+  email: 
+  number_educ: 
+  education1: 
+  education2:
+  education3:
+  education4:
+
+- name: Xiang Zhou
   photo: 
   duration: 
   info: 

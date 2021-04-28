@@ -1,9 +1,9 @@
 #- title: "General anesthetics activate a potent central pain-suppression circuit in the amygdala."
 #  image: 
-#  description: 
+#  description: General anesthesia (GA) can produce analgesia (loss of pain) independent of inducing loss of consciousness, but the underlying mechanisms remain unclear. We hypothesized that GA suppresses pain in part by activating supraspinal analgesic circuits and discovered a distinct population of GABAergic neurons activated by GA in the mouse central amygdala (CeAGA neurons). Using in vivo calcium imaging and optogenetic activation, our study points to CeAGA as a potential powerful therapeutic target for alleviating chronic pain.
 #  authors: Hua, T., Chen, B., Lu, D., (...), Lu, J., Wang, F.
 #  link:
-#    url: <A href=>https://www.nature.com/articles/s41593-020-0632-8#Sec1</A>
+#    url: https://www.nature.com/articles/s41593-020-0632-8#Sec1
 #    display: Full text at Nature Neuroscience
 #  highlight: 1
 
@@ -12,6 +12,6 @@
 #  description: 
 #  authors: Rodriguez, E., Sakurai, K., Xu, J., Chen, Y., Toda, K., Zhao, S., Han B.X., Ryu, D., Yin, H., Liedtke, W., Wang, F.
 #  link:
-#    url: <A href=>https://www.nature.com/articles/s41593-017-0012-1</A>
+#    url: https://www.nature.com/articles/s41593-017-0012-1
 #    display: Full text at Nature Neuroscience
 #  highlight: 1

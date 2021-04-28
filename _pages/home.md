@@ -27,13 +27,13 @@ The Wang lab uses a range of techniques to gain traction on these questions, inc
     <div class="carousel-inner" markdown="0">
 
         <div class="item active">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/slider/2Q==.jpg" alt="Slide 1" />
+            <img src="{{ site.url }}{{ site.baseurl }}/images/slider/3cHCR_insitu_CeAGAneurons.jpg" alt="Slide 1" />
         </div>
         <div class="item">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/slider/2Q==1.jpg" alt="Slide 2" />
+            <img src="{{ site.url }}{{ site.baseurl }}/images/slider/CeA_GA_neurons.mp4" alt="Slide 2" />
         </div>
         <div class="item">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/slider/3X5HgiVJ7ARwiAAAAAElFTkSuQmCC.png" alt="Slide 3" />
+            <img src="{{ site.url }}{{ site.baseurl }}/images/slider/min1pipe_figure.jpg" alt="Slide 3" />
         </div>
         <div class="item">
             <img src="{{ site.url }}{{ site.baseurl }}/images/slider/Z1.jpg" alt="Slide 4" />

@@ -1,26 +1,35 @@
-#- title: "General anesthetics activate a potent central pain-suppression circuit in the amygdala."
-#  image: 3cHCR_insitu_CeAGAneurons.jpg
-#  description: General anesthesia (GA) can produce analgesia (loss of pain) independent of inducing loss of consciousness, but the underlying mechanisms remain unclear. We hypothesized that GA suppresses pain in part by activating supraspinal analgesic circuits and discovered a distinct population of GABAergic neurons activated by GA in the mouse central amygdala (CeAGA neurons). Using in vivo calcium imaging and optogenetic activation, our study points to CeAGA as a potential powerful therapeutic target for alleviating chronic pain.
-#  authors: Hua, T., Chen, B., Lu, D., (...), Lu, J., Wang, F.
-#  link:
-#    url: https://www.nature.com/articles/s41593-020-0632-8#Sec1
-#    display: Full text at Nature Neuroscience
-#  highlight: 1
+- title: General anesthetics activate a potent central pain-suppression circuit in the amygdala
+  image: Hua_2020.jpg
+  description: General anesthesia (GA) can produce analgesia (loss of pain) independent of inducing loss of consciousness, but the underlying mechanisms remain unclear. We hypothesized that GA suppresses pain in part by activating supraspinal analgesic circuits and discovered a distinct population of GABAergic neurons activated by GA in the mouse central amygdala (CeAGA neurons). Using in vivo calcium imaging and optogenetic activation, our study points to CeAGA as a potential powerful therapeutic target for alleviating chronic pain.
+  authors: Hua, T., Chen, B., Lu, D., Sakurai, K., Zhao, S., Han, B.X., Kim, J., Yin, L., Chen, Y., Lu, J., Wang, F.
+  link:
+    url: https://doi.org/10.1038/s41593-020-0632-8
+    display: Nature Neuroscience (2020)
+  highlight: 1
 
-#- title: "A craniofacial-specific monosynaptic circuit enables heightened affective pain."
-#  image: Supp Fig 5 panel a.png
-#  description: 
-#  authors: Rodriguez, E., Sakurai, K., Xu, J., Chen, Y., Toda, K., Zhao, S., Han B.X., Ryu, D., Yin, H., Liedtke, W., Wang, F. (2017).
-#  link:
-#    url: https://www.nature.com/articles/s41593-017-0012-1
-#    display: Full text at Nature Neuroscience
-#  highlight: 1
+- title: A common neuroendocrine substrate for both general anesthesia and sleep
+  image: Jiang-Xie_2019.jpg
+  description: Previous studies have revealed that many general anesthesia (GA) drugs inhibit neural activity through targeting GABA receptors. Here, using Fos staining, ex vivo brain slice recording, and in vivo multi-channel electrophysiology, we discovered a core ensemble of hypothalamic neurons in and near the supraoptic nucleus, consisting primarily of neuroendocrine cells, which are persistently and commonly activated by multiple classes of GA drugs.
+  authors: Jiang-Xie, L.F., Yin, L., Zhao, S., Prevosto, V., Han, B.X., Dzirasa, K., Wang, F.
+  link:
+    url: https://doi.org/10.1016/j.neuron.2019.03.033
+    display: Neuron (2019)
+  highlight: 1
 
-#- title: "A common neuroendocrine substrate for both general anesthesia and sleep."
-#  image: 
-#  description: Previous studies have revealed that many general anesthesia (GA) drugs inhibit neural activity through targeting GABA receptors. Here, using Fos staining, ex vivo brain slice recording, and in vivo multi-channel electrophysiology, we discovered a core ensemble of hypothalamic neurons in and near the supraoptic nucleus, consisting primarily of neuroendocrine cells, which are persistently and commonly activated by multiple classes of GA drugs.
-#  authors: Rodriguez, E., Sakurai, K., Xu, J., Chen, Y., Toda, K., Zhao, S., Han B.X., Ryu, D., Yin, H., Liedtke, W., Wang, F. (2019).
-#  link:
-#    url: https://www.cell.com/neuron/fulltext/S0896-6273(19)30296-X?_returnURL=https%3A%2F%2Flinkinghub.elsevier.com%2Fretrieve%2Fpii%2FS089662731930296X%3Fshowall%3Dtrue
-#    display: Full text at Neuron
-#  highlight: 1
+- title: MIN1PIPE
+  image: Lu_2018.png
+  description: A Miniscope 1-Photon-Based Calcium Imaging Signal Extraction Pipeline
+  authors: Lu, J., Li, C., Singh-Alvarado, J., Zhou, Z. C., Fröhlich, F., Mooney, R., Wang, F.
+  link:
+    url: https://doi.org/10.1016/j.celrep.2018.05.062
+    display: Cell Reports (2018)
+  highlight: 1  
+
+- title: A craniofacial-specific monosynaptic circuit enables heightened affective pain
+  image: Rodriguez_2017.png
+  description: 
+  authors: Rodriguez, E., Sakurai, K., Xu, J., Chen, Y., Toda, K., Zhao, S., Han B.X., Ryu, D., Yin, H., Liedtke, W., Wang, F.
+  link:
+    url: https://doi.org/10.1016/j.neuron.2019.03.033
+    display: Nature Neuroscience (2017)
+  highlight: 1

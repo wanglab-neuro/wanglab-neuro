@@ -33,7 +33,7 @@ The Wang lab uses a range of techniques to gain traction on these questions, inc
             <img src="{{ site.url }}{{ site.baseurl }}/images/slider/in_vivo_CEA_GA_neurons_CaI.png" alt="Slide 2" />
         </div>
         <div class="item">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/slider/min1pipe_figure.jpg" alt="Slide 3" />
+            <img src="{{ site.url }}{{ site.baseurl }}/images/slider/min1pipe_figure.png" alt="Slide 3" />
         </div>
         <div class="item">
             <img src="{{ site.url }}{{ site.baseurl }}/images/slider/orofacial_premotor_atlas.png" alt="Slide 4" />

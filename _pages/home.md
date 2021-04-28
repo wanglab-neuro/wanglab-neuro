@@ -25,21 +25,19 @@ The Wang lab uses a range of techniques to gain traction on these questions, inc
 
     <!-- Items -->
     <div class="carousel-inner" markdown="0">
-
+        <!-- Images should be 600px high --> 
         <div class="item active">
             <img src="{{ site.url }}{{ site.baseurl }}/images/slider/3cHCR_insitu_CeAGAneurons.jpg" alt="Slide 1" />
         </div>
         <div class="item">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/slider/CeA_GA_neurons.mp4" alt="Slide 2" />
+            <img src="{{ site.url }}{{ site.baseurl }}/images/slider/in_vivo_CEA_GA_neurons_CaI.png" alt="Slide 2" />
         </div>
         <div class="item">
             <img src="{{ site.url }}{{ site.baseurl }}/images/slider/min1pipe_figure.jpg" alt="Slide 3" />
         </div>
         <div class="item">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/slider/Z1.jpg" alt="Slide 4" />
+            <img src="{{ site.url }}{{ site.baseurl }}/images/slider/orofacial_premotor_atlas.png" alt="Slide 4" />
         </div>
-        <div class="item">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/slider/Z2.jpg" alt="Slide 5" />
     </div>
   <a class="left carousel-control" href="#carousel" role="button" data-slide="prev">
     <span class="glyphicon glyphicon-chevron-left" aria-hidden="true"></span>
@@ -50,6 +48,9 @@ The Wang lab uses a range of techniques to gain traction on these questions, inc
     <span class="sr-only">Next</span>
   </a>
 </div>
+
+
+
 
 
 <!-- <figure class="fourth">

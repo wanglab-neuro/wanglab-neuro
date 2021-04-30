@@ -79,6 +79,42 @@
     display: Current Opinion in Neurobiology (2020)
   highlight: 0
 
+- title: Circuit and synaptic organization of forebrain-to-midbrain pathways that promote and suppress vocalization
+  image: 
+  description: 
+  authors: Michael, Valerie; Tschida, Katherine; Goffinet, Jack; Pearson, John; Wang, Fan; Mooney, Richard
+  link: 
+    url: http://biorxiv.org/lookup/doi/10.1101/2019.12.12.874354
+    display: BioRxiv (2019)
+  highlight: 0 
+
+- title: Stress-Induced Metabolic Disorder in Peripheral CD4+ T Cells Leads to Anxiety-like Behavior.
+  image: 
+  description: 
+  authors: Fan, Ke-Qi; Li, Yi-Yuan; Wang, Hao-Li; Mao, Xin-Tao; Guo, Jin-Xin; Wang, Fei; Huang, Ling-Jie; Li, Yi-Ning; Ma, Xiang-Yu; Gao, Zheng-Jun; Chen, Wei; Qian, Dan-Dan; Xue, Wen-Jin; Cao, Qian; Zhang, Lei; Shen, Li; Zhang, Long; Tong, Chao; Zhong, Jiang-Yan; Lu, Wei; Lu, Ling; Ren, Ke-Ming; Zhong, Guisheng; Wang, Yuan; Tang, Mingliang; Feng, Xin-Hua; Chai, Ren-Jie; Jin, Jin
+  link: 
+    url: http://dx.doi.org/10.1016/j.cell.2019.10.001
+    display: Cell (2019)
+  highlight: 0 
+
+- title: A specialized neural circuit gates social vocalizations in the mouse.
+  image: Tschida_2019.jpg
+  description: 
+  authors: Tschida, Katherine; Michael, Valerie; Takatoh, Jun; Han, Bao-Xia; Zhao, Shengli; Sakurai, Katsuyasu; Mooney, Richard; Wang, Fan
+  link: 
+    url: https://doi.org/10.1016/j.neuron.2019.05.025
+    display: Neuron (2019)
+  highlight: 1 
+
+- title: Pattern recovery by recurrent circuits in piriform cortex
+  image: 
+  description: 
+  authors: Bolding, Kevin A.; Nagappan, Shivathmihai; Han, Bao-Xia; Wang, Fan; Franks, Kevin M.
+  link: 
+    url: http://biorxiv.org/lookup/doi/10.1101/694331
+    display: BioRxiv (2019)
+  highlight: 0 
+
 - title: A common neuroendocrine substrate for both general anesthesia and sleep
   image: Jiang-Xie_2019.jpg
   description: Previous studies have revealed that many general anesthesia (GA) drugs inhibit neural activity through targeting GABA receptors. Here, using Fos staining, ex vivo brain slice recording, and in vivo multi-channel electrophysiology, we discovered a core ensemble of hypothalamic neurons in and near the supraoptic nucleus, consisting primarily of neuroendocrine cells, which are persistently and commonly activated by multiple classes of GA drugs.
@@ -96,6 +132,33 @@
     url: https://doi.org/10.1016/j.celrep.2018.05.062
     display: Cell Reports (2018)
   highlight: 1  
+
+- title: Identification of midbrain neurons essential for vocal communication
+  image: 
+  description: 
+  authors: Tschida, Katherine; Michael, Valerie; Han, Bao-Xia; Zhao, Shengli; Sakurai, Katsuyasu; Mooney, Richard; Wang, Fan
+  link: 
+    url: http://biorxiv.org/lookup/doi/10.1101/310250
+    display: BioRxiv (2018)
+  highlight: 0 
+
+- title: "Vibrissa sensory neurons: Linking distinct morphology to specific physiology and function."
+  image: 
+  description: 
+  authors: Takatoh, Jun; Prevosto, Vincent; Wang, Fan
+  link: 
+    url: http://dx.doi.org/10.1016/j.neuroscience.2017.06.033
+    display: Neuroscience (2018)
+  highlight: 0 
+
+- title: Circuits in the rodent brainstem that control whisking in concert with other orofacial motor actions.
+  image: 
+  description: 
+  authors: McElvain, Lauren E; Friedman, Beth; Karten, Harvey J; Svoboda, Karel; Wang, Fan; Deschênes, Martin; Kleinfeld, David
+  link: 
+    url: http://dx.doi.org/10.1016/j.neuroscience.2017.08.034
+    display: Neuroscience (2018)
+  highlight: 0 
 
 - title: A craniofacial-specific monosynaptic circuit enables heightened affective pain
   image: Rodriguez_2017.png

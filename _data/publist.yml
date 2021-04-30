@@ -1,3 +1,66 @@
+- title: Constructing an adult orofacial premotor atlas in Allen mouse CCF
+  image: Takatoh_2021.png
+  description: 
+  authors: Takatoh, Jun; Park, Jae Hong; Lu, Jinghao; Li, Shun; Thompson, P M; Han, Bao-Xia; Zhao, Shengli; Kleinfeld, David; Friedman, Beth; Wang, Fan
+  link: 
+    url: https://elifesciences.org/articles/67291
+    display: eLife (2021)
+  highlight: 1 
+
+- title: Geometric deep learning enables 3D kinematic profiling across species and environments
+  image: 
+  description: 
+  authors: Dunn, Timothy W.; Marshall, Jesse D.; Severson, Kyle S.; Aldarondo, Diego E.; Hildebrand, David G. C.; Chettih, Selmaan N.; Wang, William L.; Gellis, Amanda J.; Carlson, David E.; Aronov, Dmitriy; Freiwald, Winrich A.; Wang, Fan; Ölveczky, Bence P.
+  link: 
+    url: http://www.nature.com/articles/s41592-021-01106-6
+    display: Nature Methods (2021)
+  highlight: 0 
+
+- title: Vertebrate evolution conserves hindbrain circuits despite diverse feeding and breathing modes.
+  image: 
+  description: 
+  authors: Li, Shun; Wang, Fan
+  link: 
+    url: http://eneuro.org/lookup/doi/10.1523/ENEURO.0435-20.2021
+    display: eNeuro (2021)
+  highlight: 0 
+
+- title: Constructing an adult orofacial premotor atlas in allen mouse CCF
+  image: 
+  description: 
+  authors: Takatoh, Jun; Park, Jae Hong; Lu, Jinghao; Li, Shun; Thompson, P. M.; Han, Bao-Xia; Zhao, Shengli; Kleinfeld, David; Friedman, Beth; Wang, Fan
+  link: 
+    url: http://biorxiv.org/lookup/doi/10.1101/2021.02.18.431923
+    display: BioRxiv (2021)
+  highlight: 0 
+
+- title: Circuit and synaptic organization of forebrain-to-midbrain pathways that promote and suppress vocalization.
+  image: 
+  description: 
+  authors: Michael, Valerie; Goffinet, Jack; Pearson, John; Wang, Fan; Tschida, Katherine; Mooney, Richard
+  link: 
+    url: http://dx.doi.org/10.7554/eLife.63493
+    display: eLife (2020)
+  highlight: 0 
+
+- title: Incerta-thalamic Circuit Controls Nocifensive Behavior via Cannabinoid Type 1 Receptors.
+  image: 
+  description: 
+  authors: Wang, Hao; Dong, Ping; He, Chao; Feng, Xiao-Yang; Huang, Yue; Yang, Wei-Wei; Gao, Hua-Jing; Shen, Xiao-Fan; Lin, Shan; Cao, Shu-Xia; Lian, Hong; Chen, Jiadong; Yan, Min; Li, Xiao-Ming
+  link: 
+    url: https://linkinghub.elsevier.com/retrieve/pii/S0896627320303196
+    display: Neuron (2020)
+  highlight: 0 
+
+- title: Recurrent circuitry is required to stabilize piriform cortex odor representations across brain states.
+  image: 
+  description: 
+  authors: Bolding, Kevin A; Nagappan, Shivathmihai; Han, Bao-Xia; Wang, Fan; Franks, Kevin M
+  link: 
+    url: https://elifesciences.org/articles/53125
+    display: eLife (2020)
+  highlight: 0 
+
 - title: General anesthetics activate a potent central pain-suppression circuit in the amygdala
   image: Hua_2020.jpg
   description: General anesthesia (GA) can produce analgesia (loss of pain) independent of inducing loss of consciousness, but the underlying mechanisms remain unclear. We hypothesized that GA suppresses pain in part by activating supraspinal analgesic circuits and discovered a distinct population of GABAergic neurons activated by GA in the mouse central amygdala (CeAGA neurons). Using in vivo calcium imaging and optogenetic activation, our study points to CeAGA as a potential powerful therapeutic target for alleviating chronic pain.
@@ -6,6 +69,51 @@
     url: https://doi.org/10.1038/s41593-020-0632-8
     display: Nature Neuroscience (2020)
   highlight: 1
+
+- title: Viral vectors for neuronal cell type-specific visualization and manipulations.
+  image: 
+  description: 
+  authors: Liu, Yuanyuan; Hegarty, Shane; Winter, Carla; Wang, Fan; He, Zhigang
+  link: 
+    url: http://dx.doi.org/10.1016/j.conb.2020.03.011
+    display: Current Opinion in Neurobiology (2020)
+  highlight: 0 
+
+- title: Circuit and synaptic organization of forebrain-to-midbrain pathways that promote and suppress vocalization
+  image: 
+  description: 
+  authors: Michael, Valerie; Tschida, Katherine; Goffinet, Jack; Pearson, John; Wang, Fan; Mooney, Richard
+  link: 
+    url: http://biorxiv.org/lookup/doi/10.1101/2019.12.12.874354
+    display: BioRxiv (2019)
+  highlight: 0 
+
+- title: Stress-Induced Metabolic Disorder in Peripheral CD4+ T Cells Leads to Anxiety-like Behavior.
+  image: 
+  description: 
+  authors: Fan, Ke-Qi; Li, Yi-Yuan; Wang, Hao-Li; Mao, Xin-Tao; Guo, Jin-Xin; Wang, Fei; Huang, Ling-Jie; Li, Yi-Ning; Ma, Xiang-Yu; Gao, Zheng-Jun; Chen, Wei; Qian, Dan-Dan; Xue, Wen-Jin; Cao, Qian; Zhang, Lei; Shen, Li; Zhang, Long; Tong, Chao; Zhong, Jiang-Yan; Lu, Wei; Lu, Ling; Ren, Ke-Ming; Zhong, Guisheng; Wang, Yuan; Tang, Mingliang; Feng, Xin-Hua; Chai, Ren-Jie; Jin, Jin
+  link: 
+    url: http://dx.doi.org/10.1016/j.cell.2019.10.001
+    display: Cell (2019)
+  highlight: 0 
+
+- title: A specialized neural circuit gates social vocalizations in the mouse.
+  image: 
+  description: 
+  authors: Tschida, Katherine; Michael, Valerie; Takatoh, Jun; Han, Bao-Xia; Zhao, Shengli; Sakurai, Katsuyasu; Mooney, Richard; Wang, Fan
+  link: 
+    url: https://doi.org/10.1016/j.neuron.2019.05.025
+    display: Neuron (2019)
+  highlight: 1 
+
+- title: Pattern recovery by recurrent circuits in piriform cortex
+  image: 
+  description: 
+  authors: Bolding, Kevin A.; Nagappan, Shivathmihai; Han, Bao-Xia; Wang, Fan; Franks, Kevin M.
+  link: 
+    url: http://biorxiv.org/lookup/doi/10.1101/694331
+    display: BioRxiv (2019)
+  highlight: 0 
 
 - title: A common neuroendocrine substrate for both general anesthesia and sleep
   image: Jiang-Xie_2019.jpg
@@ -25,6 +133,33 @@
     display: Cell Reports (2018)
   highlight: 1  
 
+- title: Identification of midbrain neurons essential for vocal communication
+  image: 
+  description: 
+  authors: Tschida, Katherine; Michael, Valerie; Han, Bao-Xia; Zhao, Shengli; Sakurai, Katsuyasu; Mooney, Richard; Wang, Fan
+  link: 
+    url: http://biorxiv.org/lookup/doi/10.1101/310250
+    display: BioRxiv (2018)
+  highlight: 0 
+
+- title: Vibrissa sensory neurons: Linking distinct morphology to specific physiology and function.
+  image: 
+  description: 
+  authors: Takatoh, Jun; Prevosto, Vincent; Wang, Fan
+  link: 
+    url: http://dx.doi.org/10.1016/j.neuroscience.2017.06.033
+    display: Neuroscience (2018)
+  highlight: 0 
+
+- title: Circuits in the rodent brainstem that control whisking in concert with other orofacial motor actions.
+  image: 
+  description: 
+  authors: McElvain, Lauren E; Friedman, Beth; Karten, Harvey J; Svoboda, Karel; Wang, Fan; Deschênes, Martin; Kleinfeld, David
+  link: 
+    url: http://dx.doi.org/10.1016/j.neuroscience.2017.08.034
+    display: Neuroscience (2018)
+  highlight: 0 
+
 - title: A craniofacial-specific monosynaptic circuit enables heightened affective pain
   image: Rodriguez_2017.png
   description: 
@@ -33,3 +168,445 @@
     url: https://doi.org/10.1016/j.neuron.2019.03.033
     display: Nature Neuroscience (2017)
   highlight: 1
+
+- title: Parallel Inhibitory and Excitatory Trigemino-Facial Feedback Circuitry for Reflexive Vibrissa Movement.
+  image: 
+  description: 
+  authors: Bellavance, Marie-Andrée; Takatoh, Jun; Lu, Jinghao; Demers, Maxime; Kleinfeld, David; Wang, Fan; Deschênes, Martin
+  link: 
+    url: http://dx.doi.org/10.1016/j.neuron.2017.06.045
+    display: Neuron (2017)
+  highlight: 0 
+
+- title: Parallel Inhibitory and Excitatory Trigemino-Facial Feedback Circuitry for Reflexive Vibrissa Movement.
+  image: 
+  description: 
+  authors: Bellavance, Marie-Andrée; Takatoh, Jun; Lu, Jinghao; Demers, Maxime; Kleinfeld, David; Wang, Fan; Deschênes, Martin
+  link: 
+    url: http://dx.doi.org/10.1016/j.neuron.2017.07.022
+    display: Neuron (2017)
+  highlight: 0 
+
+- title: Fast high-resolution miniature two-photon microscopy for brain imaging in freely behaving mice.
+  image: 
+  description: 
+  authors: Zong, Weijian; Wu, Runlong; Li, Mingli; Hu, Yanhui; Li, Yijun; Li, Jinghang; Rong, Hao; Wu, Haitao; Xu, Yangyang; Lu, Yang; Jia, Hongbo; Fan, Ming; Zhou, Zhuan; Zhang, Yunfeng; Wang, Aimin; Chen, Liangyi; Cheng, Heping
+  link: 
+    url: http://dx.doi.org/10.1038/nmeth.4305
+    display: Nature Methods (2017)
+  highlight: 0 
+
+- title: Capturing and Manipulating Activated Neuronal Ensembles with CANE Delineates a Hypothalamic Social-Fear Circuit.
+  image: 
+  description: 
+  authors: Sakurai, Katsuyasu; Zhao, Shengli; Takatoh, Jun; Rodriguez, Erica; Lu, Jinghao; Leavitt, Andrew D; Fu, Min; Han, Bao-Xia; Wang, Fan
+  link: 
+    url: http://linkinghub.elsevier.com/retrieve/pii/S0896627316307164
+    display: Neuron (2016)
+  highlight: 0 
+
+- title: Supratrigeminal Bilaterally Projecting Neurons Maintain Basal Tone and Enable Bilateral Phasic Activation of Jaw-Closing Muscles.
+  image: 
+  description: 
+  authors: Stanek, Edward; Rodriguez, Erica; Zhao, Shengli; Han, Bao-Xia; Wang, Fan
+  link: 
+    url: http://dx.doi.org/10.1523/JNEUROSCI.0839-16.2016
+    display: The Journal of Neuroscience (2016)
+  highlight: 0 
+
+- title: Inhibition, not excitation, drives rhythmic whisking.
+  image: 
+  description: 
+  authors: Deschênes, Martin; Takatoh, Jun; Kurnikova, Anastasia; Moore, Jeffrey D; Demers, Maxime; Elbaz, Michael; Furuta, Takahiro; Wang, Fan; Kleinfeld, David
+  link: 
+    url: http://dx.doi.org/10.1016/j.neuron.2016.03.007
+    display: Neuron (2016)
+  highlight: 0 
+
+- title: Inhibition of mechanical allodynia in neuropathic pain by TLR5-mediated A-fiber blockade.
+  image: 
+  description: 
+  authors: Xu, Zhen-Zhong; Kim, Yong Ho; Bang, Sangsu; Zhang, Yi; Berta, Temugin; Wang, Fan; Oh, Seog Bae; Ji, Ru-Rong
+  link: 
+    url: http://dx.doi.org/10.1038/nm.3978
+    display: Nature Medicine (2015)
+  highlight: 0 
+
+- title: Identifying local and descending inputs for primary sensory neurons.
+  image: 
+  description: 
+  authors: Zhang, Yi; Zhao, Shengli; Rodriguez, Erica; Takatoh, Jun; Han, Bao-Xia; Zhou, Xiang; Wang, Fan
+  link: 
+    url: http://dx.doi.org/10.1172/JCI81156
+    display: The Journal of Clinical Investigation (2015)
+  highlight: 0 
+
+- title: Spine pruning drives antipsychotic-sensitive locomotion via circuit control of striatal dopamine.
+  image: 
+  description: 
+  authors: Kim, Il Hwan; Rossi, Mark A; Aryal, Dipendra K; Racz, Bence; Kim, Namsoo; Uezu, Akiyoshi; Wang, Fan; Wetsel, William C; Weinberg, Richard J; Yin, Henry; Soderling, Scott H
+  link: 
+    url: http://dx.doi.org/10.1038/nn.4015
+    display: Nature Neuroscience (2015)
+  highlight: 0 
+
+- title: The Brainstem Oscillator for Whisking and the Case for Breathing as the Master Clock for Orofacial Motor Actions.
+  image: 
+  description: 
+  authors: Kleinfeld, David; Moore, Jeffrey D; Wang, Fan; Deschênes, Martin
+  link: 
+    url: http://dx.doi.org/10.1101/sqb.2014.79.024794
+    display: Cold Spring Harbor Symposia on Quantitative Biology (2015)
+  highlight: 0 
+
+- title: Feedback in the brainstem: an excitatory disynaptic pathway for control of whisking.
+  image: 
+  description: 
+  authors: Matthews, David W; Deschênes, Martin; Furuta, Takahiro; Moore, Jeffrey D; Wang, Fan; Karten, Harvey J; Kleinfeld, David
+  link: 
+    url: http://dx.doi.org/10.1002/cne.23724
+    display: The Journal of Comparative Neurology (2015)
+  highlight: 0 
+
+- title: Lack of evidence for ectopic sprouting of genetically labeled A² touch afferents in inflammatory and neuropathic trigeminal pain.
+  image: 
+  description: 
+  authors: Zhang, Yi; Chen, Yong; Liedtke, Wolfgang; Wang, Fan
+  link: 
+    url: http://dx.doi.org/10.1186/s12990-015-0017-2
+    display: Molecular Pain (2015)
+  highlight: 0 
+
+- title: Neuroepithelial circuit formed by innervation of sensory enteroendocrine cells.
+  image: 
+  description: 
+  authors: Bohórquez, Diego V; Shahid, Rafiq A; Erdmann, Alan; Kreger, Alex M; Wang, Yu; Calakos, Nicole; Wang, Fan; Liddle, Rodger A
+  link: 
+    url: http://dx.doi.org/10.1172/JCI78361
+    display: The Journal of Clinical Investigation (2015)
+  highlight: 0 
+
+- title: TRPV4 is necessary for trigeminal irritant pain and functions as a cellular formalin receptor.
+  image: 
+  description: 
+  authors: Chen, Yong; Kanju, Patrick; Fang, Quan; Lee, Suk Hee; Parekh, Puja K; Lee, Whasil; Moore, Carlene; Brenner, Daniel; Gereau, Robert W; Wang, Fan; Liedtke, Wolfgang
+  link: 
+    url: http://dx.doi.org/10.1016/j.pain.2014.09.033
+    display: Pain (2014)
+  highlight: 0 
+
+- title: State-dependent architecture of thalamic reticular subnetworks.
+  image: 
+  description: 
+  authors: Halassa, Michael M; Chen, Zhe; Wimmer, Ralf D; Brunetti, Philip M; Zhao, Shengli; Zikopoulos, Basilis; Wang, Fan; Brown, Emery N; Wilson, Matthew A
+  link: 
+    url: http://dx.doi.org/10.1016/j.cell.2014.06.025
+    display: Cell (2014)
+  highlight: 0 
+
+- title: How the brainstem controls orofacial behaviors comprised of rhythmic actions.
+  image: 
+  description: 
+  authors: Moore, Jeffrey D; Kleinfeld, David; Wang, Fan
+  link: 
+    url: http://dx.doi.org/10.1016/j.tins.2014.05.001
+    display: Trends in Neurosciences (2014)
+  highlight: 0 
+
+- title: More than a rhythm of life: breathing as a binder of orofacial sensation.
+  image: 
+  description: 
+  authors: Kleinfeld, David; Deschênes, Martin; Wang, Fan; Moore, Jeffrey D
+  link: 
+    url: http://dx.doi.org/10.1038/nn.3693
+    display: Nature Neuroscience (2014)
+  highlight: 0 
+
+- title: Monosynaptic premotor circuit tracing reveals neural substrates for oro-motor coordination.
+  image: 
+  description: 
+  authors: Stanek, Edward; Cheng, Steven; Takatoh, Jun; Han, Bao-Xia; Wang, Fan
+  link: 
+    url: http://dx.doi.org/10.7554/eLife.02511
+    display: eLife (2014)
+  highlight: 0 
+
+- title: The organization of submodality-specific touch afferent inputs in the vibrissa column.
+  image: 
+  description: 
+  authors: Sakurai, Katsuyasu; Akiyama, Masahiro; Cai, Bin; Scott, Alexandra; Han, Bao-Xia; Takatoh, Jun; Sigrist, Markus; Arber, Silvia; Wang, Fan
+  link: 
+    url: http://dx.doi.org/10.1016/j.celrep.2013.08.051
+    display: Cell reports (2013)
+  highlight: 0 
+
+- title: A circuit for motor cortical modulation of auditory cortical activity.
+  image: 
+  description: 
+  authors: Nelson, Anders; Schneider, David M; Takatoh, Jun; Sakurai, Katsuyasu; Wang, Fan; Mooney, Richard
+  link: 
+    url: http://dx.doi.org/10.1523/JNEUROSCI.2275-13.2013
+    display: The Journal of Neuroscience (2013)
+  highlight: 0 
+
+- title: Loss of NR1 subunit of NMDARs in primary sensory neurons leads to hyperexcitability and pain hypersensitivity: involvement of Ca(2+)-activated small conductance potassium channels.
+  image: 
+  description: 
+  authors: Pagadala, Promila; Park, Chul-Kyu; Bang, Sangsu; Xu, Zheng-Zhong; Xie, Rou-Gang; Liu, Tong; Han, Bao-Xia; Tracey, W Daniel; Wang, Fan; Ji, Ru-Rong
+  link: 
+    url: http://dx.doi.org/10.1523/JNEUROSCI.0454-13.2013
+    display: The Journal of Neuroscience (2013)
+  highlight: 0 
+
+- title: Temporomandibular joint pain: a critical role for Trpv4 in the trigeminal ganglion.
+  image: 
+  description: 
+  authors: Chen, Yong; Williams, Susan H; McNulty, Amy L; Hong, Ji Hee; Lee, Suk Hee; Rothfusz, Nicole E; Parekh, Puja K; Moore, Carlene; Gereau, Robert W; Taylor, Andrea B; Wang, Fan; Guilak, Farshid; Liedtke, Wolfgang
+  link: 
+    url: http://dx.doi.org/10.1016/j.pain.2013.04.004
+    display: Pain (2013)
+  highlight: 0 
+
+- title: New modules are added to vibrissal premotor circuitry with the emergence of exploratory whisking.
+  image: 
+  description: 
+  authors: Takatoh, Jun; Nelson, Anders; Zhou, Xiang; Bolton, M McLean; Ehlers, Michael D; Arenkiel, Benjamin R; Mooney, Richard; Wang, Fan
+  link: 
+    url: http://dx.doi.org/10.1016/j.neuron.2012.11.010
+    display: Neuron (2013)
+  highlight: 0 
+
+- title: Sexually dimorphic BDNF signaling directs sensory innervation of the mammary gland.
+  image: 
+  description: 
+  authors: Liu, Yin; Rutlin, Michael; Huang, Siyi; Barrick, Colleen A; Wang, Fan; Jones, Kevin R; Tessarollo, Lino; Ginty, David D
+  link: 
+    url: http://dx.doi.org/10.1126/science.1228258
+    display: Science (2012)
+  highlight: 0 
+
+- title: Generation and characterization of Tmeff2 mutant mice.
+  image: 
+  description: 
+  authors: Chen, Tian Rui; Wang, Ping; Carroll, Liberty K; Zhang, Ying-jiu; Han, Bao-Xia; Wang, Fan
+  link: 
+    url: http://dx.doi.org/10.1016/j.bbrc.2012.07.064
+    display: Biochemical and Biophysical Research Communications (2012)
+  highlight: 0 
+
+- title: Intersectional Cre driver lines generated using split-intein mediated split-Cre reconstitution.
+  image: 
+  description: 
+  authors: Wang, Ping; Chen, Tianrui; Sakurai, Katsuyasu; Han, Bao-Xia; He, Zhigang; Feng, Guoping; Wang, Fan
+  link: 
+    url: http://dx.doi.org/10.1038/srep00497
+    display: Scientific Reports (2012)
+  highlight: 0 
+
+- title: The calcium-activated chloride channel anoctamin 1 acts as a heat sensor in nociceptive neurons.
+  image: 
+  description: 
+  authors: Cho, Hawon; Yang, Young Duk; Lee, Jesun; Lee, Byeongjoon; Kim, Tahnbee; Jang, Yongwoo; Back, Seung Keun; Na, Heung Sik; Harfe, Brian D; Wang, Fan; Raouf, Ramin; Wood, John N; Oh, Uhtaek
+  link: 
+    url: http://dx.doi.org/10.1038/nn.3111
+    display: Nature Neuroscience (2012)
+  highlight: 0 
+
+- title: Distinct Nav1.7-dependent pain sensations require different sets of sensory and sympathetic neurons.
+  image: 
+  description: 
+  authors: Minett, Michael S; Nassar, Mohammed A; Clark, Anna K; Passmore, Gayle; Dickenson, Anthony H; Wang, Fan; Malcangio, Marzia; Wood, John N
+  link: 
+    url: http://dx.doi.org/10.1038/ncomms1795
+    display: Nature Communications (2012)
+  highlight: 0 
+
+- title: Axonally translated SMADs link up BDNF and retrograde BMP signaling.
+  image: 
+  description: 
+  authors: Takatoh, Jun; Wang, Fan
+  link: 
+    url: http://dx.doi.org/10.1016/j.neuron.2012.03.012
+    display: Neuron (2012)
+  highlight: 0 
+
+- title: Sodium channels and mammalian sensory mechanotransduction.
+  image: 
+  description: 
+  authors: Raouf, Ramin; Rugiero, Francois; Kiesewetter, Hannes; Hatch, Rachel; Hummler, Edith; Nassar, Mohammed A; Wang, Fan; Wood, John N
+  link: 
+    url: http://dx.doi.org/10.1186/1744-8069-8-21
+    display: Molecular Pain (2012)
+  highlight: 0 
+
+- title: Activity-induced remodeling of olfactory bulb microcircuits revealed by monosynaptic tracing.
+  image: 
+  description: 
+  authors: Arenkiel, Benjamin R; Hasegawa, Hiroshi; Yi, Jason J; Larsen, Rylan S; Wallace, Michael L; Philpot, Benjamin D; Wang, Fan; Ehlers, Michael D
+  link: 
+    url: http://dx.doi.org/10.1371/journal.pone.0029423
+    display: Plos One (2011)
+  highlight: 0 
+
+- title: Temporal control of gene deletion in sensory ganglia using a tamoxifen-inducible Advillin-Cre-ERT2 recombinase mouse.
+  image: 
+  description: 
+  authors: Lau, Joanne; Minett, Michael S; Zhao, Jing; Dennehy, Ulla; Wang, Fan; Wood, John N; Bogdanov, Yury D
+  link: 
+    url: http://dx.doi.org/10.1186/1744-8069-7-100
+    display: Molecular Pain (2011)
+  highlight: 0 
+
+- title: The class III kinase Vps34 promotes T lymphocyte survival through regulating IL-7R± surface expression.
+  image: 
+  description: 
+  authors: McLeod, Ian X; Zhou, Xiang; Li, Qi-Jing; Wang, Fan; He, You-Wen
+  link: 
+    url: http://dx.doi.org/10.4049/jimmunol.1100710
+    display: Journal of Immunology (2011)
+  highlight: 0 
+
+- title: Transcription factor short stature homeobox 2 is required for proper development of tropomyosin-related kinase B-expressing mechanosensory neurons.
+  image: 
+  description: 
+  authors: Scott, Alexandra; Hasegawa, Hiroshi; Sakurai, Katsuyasu; Yaron, Avraham; Cobb, John; Wang, Fan
+  link: 
+    url: http://dx.doi.org/10.1523/JNEUROSCI.5883-10.2011
+    display: The Journal of Neuroscience (2011)
+  highlight: 0 
+
+- title: Proper formation of whisker barrelettes requires periphery-derived Smad4-dependent TGF-beta signaling.
+  image: 
+  description: 
+  authors: da Silva, Susana; Hasegawa, Hiroshi; Scott, Alexandra; Zhou, Xiang; Wagner, Amanda K; Han, Bao-Xia; Wang, Fan
+  link: 
+    url: http://dx.doi.org/10.1073/pnas.1014411108
+    display: Proceedings of the National Academy of Sciences of the United States of America (2011)
+  highlight: 0 
+
+- title: Retrograde neural circuit specification by target-derived neurotrophins and growth factors.
+  image: 
+  description: 
+  authors: da Silva, Susana; Wang, Fan
+  link: 
+    url: http://dx.doi.org/10.1016/j.conb.2010.07.007
+    display: Current Opinion in Neurobiology (2011)
+  highlight: 0 
+
+- title: The mammalian class 3 PI3K (PIK3C3) is required for early embryogenesis and cell proliferation.
+  image: 
+  description: 
+  authors: Zhou, Xiang; Takatoh, Jun; Wang, Fan
+  link: 
+    url: http://dx.doi.org/10.1371/journal.pone.0016358
+    display: Plos One (2011)
+  highlight: 0 
+
+- title: BMP signaling in the development of the mouse esophagus and forestomach.
+  image: 
+  description: 
+  authors: Rodriguez, Pavel; Da Silva, Susana; Oxburgh, Leif; Wang, Fan; Hogan, Brigid L M; Que, Jianwen
+  link: 
+    url: http://dx.doi.org/10.1242/dev.056077
+    display: Development (2010)
+  highlight: 0 
+
+- title: Mammalian target of rapamycin (mTOR) activation increases axonal growth capacity of injured peripheral nerves.
+  image: 
+  description: 
+  authors: Abe, Namiko; Borson, Steven H; Gambello, Michael J; Wang, Fan; Cavalli, Valeria
+  link: 
+    url: http://dx.doi.org/10.1074/jbc.M110.125336
+    display: The Journal of Biological Chemistry (2010)
+  highlight: 0 
+
+- title: Effects of neuronal PIK3C3/Vps34 deletion on autophagy and beyond.
+  image: 
+  description: 
+  authors: Zhou, Xiang; Wang, Fan
+  link: 
+    url: http://dx.doi.org/10.4161/auto.6.6.12511
+    display: Autophagy (2010)
+  highlight: 0 
+
+- title: Deletion of PIK3C3/Vps34 in sensory neurons causes rapid neurodegeneration by disrupting the endosomal but not the autophagic pathway.
+  image: 
+  description: 
+  authors: Zhou, Xiang; Wang, Liangli; Hasegawa, Hiroshi; Amin, Priyanka; Han, Bao-Xia; Kaneko, Shinjiro; He, Youwen; Wang, Fan
+  link: 
+    url: http://dx.doi.org/10.1073/pnas.0914725107
+    display: Proceedings of the National Academy of Sciences of the United States of America (2010)
+  highlight: 0 
+
+- title: The role of Scgb1a1+ Clara cells in the long-term maintenance and repair of lung airway, but not alveolar, epithelium.
+  image: 
+  description: 
+  authors: Rawlins, Emma L; Okubo, Tadashi; Xue, Yan; Brass, David M; Auten, Richard L; Hasegawa, Hiroshi; Wang, Fan; Hogan, Brigid L M
+  link: 
+    url: http://dx.doi.org/10.1016/j.stem.2009.04.002
+    display: Cell Stem Cell (2009)
+  highlight: 0 
+
+- title: Visualizing mechanosensory endings of TrkC-expressing neurons in HS3ST-2-hPLAP mice.
+  image: 
+  description: 
+  authors: Hasegawa, Hiroshi; Wang, Fan
+  link: 
+    url: http://dx.doi.org/10.1002/cne.21862
+    display: The Journal of Comparative Neurology (2008)
+  highlight: 0 
+
+- title: Analyzing somatosensory axon projections with the sensory neuron-specific Advillin gene.
+  image: 
+  description: 
+  authors: Hasegawa, Hiroshi; Abbott, Sara; Han, Bao-Xia; Qi, Yi; Wang, Fan
+  link: 
+    url: http://dx.doi.org/10.1523/JNEUROSCI.4908-07.2007
+    display: The Journal of Neuroscience (2007)
+  highlight: 0 
+
+- title: Retrograde BMP signaling regulates trigeminal sensory neuron identities and the formation of precise face maps.
+  image: 
+  description: 
+  authors: Hodge, Liberty K; Klassen, Matthew P; Han, Bao-Xia; Yiu, Glenn; Hurrell, Joanna; Howell, Audrey; Rousseau, Guy; Lemaigre, Frederic; Tessier-Lavigne, Marc; Wang, Fan
+  link: 
+    url: http://dx.doi.org/10.1016/j.neuron.2007.07.010
+    display: Neuron (2007)
+  highlight: 0 
+
+- title: Unc-51-like kinase 1/2-mediated endocytic processes regulate filopodia extension and branching of sensory axons.
+  image: 
+  description: 
+  authors: Zhou, Xiang; Babu, J Ramesh; da Silva, Susana; Shu, Qing; Graef, Isabella A; Oliver, Tim; Tomoda, Toshifumi; Tani, Tomomi; Wooten, Marie W; Wang, Fan
+  link: 
+    url: http://dx.doi.org/10.1073/pnas.0701402104
+    display: Proceedings of the National Academy of Sciences of the United States of America (2007)
+  highlight: 0 
+
+- title: Steering growth cones with a CaMKII/calcineurin switch.
+  image: 
+  description: 
+  authors: Wang, Fan
+  link: 
+    url: http://dx.doi.org/10.1016/j.neuron.2004.09.002
+    display: Neuron (2004)
+  highlight: 0 
+
+- title: SLIT2-mediated ROBO2 signaling restricts kidney induction to a single site.
+  image: 
+  description: 
+  authors: Grieshammer, Uta; Le Ma, ; Plump, Andrew S; Wang, Fan; Tessier-Lavigne, Marc; Martin, Gail R
+  link: 
+    url: http://dx.doi.org/10.1016/s1534-5807(04)00108-x
+    display: Developmental Cell (2004)
+  highlight: 0 
+
+- title: Neurotrophins and netrins require calcineurin/NFAT signaling to stimulate outgrowth of embryonic axons.
+  image: 
+  description: 
+  authors: Graef, Isabella A; Wang, Fan; Charron, Frederic; Chen, Lei; Neilson, Joel; Tessier-Lavigne, Marc; Crabtree, Gerald R
+  link: 
+    url: http://dx.doi.org/10.1016/s0092-8674(03)00390-8
+    display: Cell (2003)
+  highlight: 0 
+

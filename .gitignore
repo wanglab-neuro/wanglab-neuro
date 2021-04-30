@@ -3,3 +3,15 @@ _site
 .jekyll-metadata
 
 *.prproj
+
+_data/FW references.Data/rdb/
+
+_data/FW references.Data/tdb/
+
+_data/fw_medline.txt
+
+_data/fw-references.csv
+
+_data/FW references.enl
+
+_data/fullpublist.yml

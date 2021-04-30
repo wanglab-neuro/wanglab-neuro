@@ -53,7 +53,7 @@ permalink: /publications/
 
 
 ## Full List  
-Full publication list available on [Pubmed](https://www.ncbi.nlm.nih.gov/myncbi/fan.wang.1/bibliography/public/)
+Full publication list also available on [Pubmed](https://www.ncbi.nlm.nih.gov/myncbi/fan.wang.1/bibliography/public/)
 
 {% for publi in site.data.publist %}
 

@@ -7,6 +7,15 @@
     display: Nature Neuroscience (2020)
   highlight: 1
 
+- title: Viral vectors for neuronal cell type-specific visualization and manipulations.
+  image: 
+  description: 
+  authors: Liu, Yuanyuan; Hegarty, Shane; Winter, Carla; Wang, Fan; He, Zhigang
+  link: 
+    url: http://dx.doi.org/10.1016/j.conb.2020.03.011
+    display: Current Opinion in Neurobiology (2020)
+  highlight: 0
+
 - title: A common neuroendocrine substrate for both general anesthesia and sleep
   image: Jiang-Xie_2019.jpg
   description: Previous studies have revealed that many general anesthesia (GA) drugs inhibit neural activity through targeting GABA receptors. Here, using Fos staining, ex vivo brain slice recording, and in vivo multi-channel electrophysiology, we discovered a core ensemble of hypothalamic neurons in and near the supraoptic nucleus, consisting primarily of neuroendocrine cells, which are persistently and commonly activated by multiple classes of GA drugs.

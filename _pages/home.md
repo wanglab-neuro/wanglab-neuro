@@ -6,12 +6,6 @@ sitemap: false
 permalink: /
 ---
 
-The Wang lab studies the neural circuit basis of sensory perception. We're specifically interested in uncovering the neural circuits underlying:   
-(1) Active touch sensation including the tactile processing stream and motor control of touch sensors on the face  
-(2) pain sensation including both sensory-discriminative and affective aspects of pain  
-(3) general anesthesia including the process of active pain-suppression.  
-The Wang lab uses a range of techniques to gain traction on these questions, including genetic, viral, electrophysiology, and in vivo imaging.
-
 
 <div markdown="0" id="carousel" class="carousel slide" data-ride="carousel" data-interval="5000" data-pause="hover" >
     <!-- Menu -->
@@ -49,13 +43,38 @@ The Wang lab uses a range of techniques to gain traction on these questions, inc
   </a>
 </div>
 
+<p>
+The Wang lab studies the neural circuit basis of sensory perception. We're specifically interested in uncovering the neural circuits underlying: 
+</p>
 
+<div class="row">
 
+<div class="col-sm-6 clearfix">
+ <div class="well">
+  <highlighttit>Orofacial sensorimotor circuits</highlighttit>
+  <p>Active touch sensation including the tactile processing stream and coordination of orofacial behaviors.</p>
+  <!-- <p><em>{{ publi.authors }}</em></p>
+  <p><strong><a href="{{ publi.link.url }}">{{ publi.link.display }}</a></strong></p>
+  <p class="text-danger"><strong> {{ publi.news1 }}</strong></p>
+  <p> {{ publi.news2 }}</p> -->
+ </div>
+</div>
 
+<div class="col-sm-6 clearfix">
+ <div class="well">
+  <highlighttit>Pain sensation</highlighttit>
+  <p>Pain sensation including both sensory-discriminative and affective aspects of pain, and pain-suppression.</p>
+ </div>
+</div>
 
-<!-- <figure class="fourth">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/Logo_Leiden.jpg" style="width: 210px">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/Logo_Nanofront.jpg" style="width: 110px">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/Logo_NWO.jpg" style="width: 120px">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/Logo_ERC.jpg" style="width: 110px">
-</figure> -->
+<div class="col-sm-6 clearfix">
+ <div class="well">
+  <highlighttit>Addiction</highlighttit>
+  <p></p>
+
+ </div>
+</div>
+
+<p>
+The Wang lab uses a range of techniques to gain traction on these questions, including genetic, viral, electrophysiology, and in vivo imaging.
+</p>

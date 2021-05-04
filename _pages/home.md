@@ -51,25 +51,22 @@ The Wang lab studies the neural circuit basis of sensory perception. We're speci
 
 <div class="col-sm-6 clearfix">
  <div class="well">
-  <highlighttit>Orofacial sensorimotor circuits</highlighttit>
+  <strong>Orofacial sensorimotor circuits</strong>
   <p>Active touch sensation including the tactile processing stream and coordination of orofacial behaviors.</p>
-  <!-- <p><em>{{ publi.authors }}</em></p>
-  <p><strong><a href="{{ publi.link.url }}">{{ publi.link.display }}</a></strong></p>
-  <p class="text-danger"><strong> {{ publi.news1 }}</strong></p>
-  <p> {{ publi.news2 }}</p> -->
+
  </div>
 </div>
 
 <div class="col-sm-6 clearfix">
  <div class="well">
-  <highlighttit>Pain sensation</highlighttit>
+  <strong>Pain sensation</strong>
   <p>Pain sensation including both sensory-discriminative and affective aspects of pain, and pain-suppression.</p>
  </div>
 </div>
 
 <div class="col-sm-6 clearfix">
  <div class="well">
-  <highlighttit>Addiction</highlighttit>
+  <strong>Addiction</strong>
   <p></p>
 
  </div>

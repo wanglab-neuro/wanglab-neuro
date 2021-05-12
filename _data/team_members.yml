@@ -69,7 +69,7 @@
   education4:
 
 - name: Jinghao Lu
-  photo: 
+  photo: default.jpg
   info: 
   email: 
   number_educ: 
@@ -119,7 +119,7 @@
   education4:
 
 - name: Paul Thompson
-  photo: 
+  photo: default.jpg
   info: 
   email: 
   number_educ: 
